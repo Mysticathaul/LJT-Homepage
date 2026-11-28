@@ -19,7 +19,7 @@ My research interests include LLM Reasoning and Reinforcement Learning, Hallucin
   - HKUST NLP Group
   - Advisor: Professor Junxian He
   - Professor Junxian He previously advised Junteng Liu during undergraduate studies at Shanghai Jiao Tong University.
-- **B.Eng.**, Shanghai Jiao Tong University (2020–2024)
+- **B.Eng.**, Shanghai Jiao Tong University (SJTU) (2020–2024)
   - Graduated in June 2024
 - **Honor:** Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
